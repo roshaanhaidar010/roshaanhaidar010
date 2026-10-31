@@ -68,7 +68,7 @@ Here are some of the projects I'm working on and improving:
 
 I'm always interested in learning, sharing knowledge, and collaborating on programming projects.
 
-- 🌐 GitHub: [Visit My GitHub](https://github.com/)
+- 🌐 GitHub: [Visit My GitHub](https://github.com/roshaanhaidar010)
 - 💼 LinkedIn: [Connect With Me](https://www.linkedin.com/in/roshaan-haidar-5505a1393/)
 
 ---
